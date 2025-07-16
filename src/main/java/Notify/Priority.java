@@ -1,4 +1,5 @@
 package Notify;
 
-public class Priority {
+public enum Priority {
+    LOW, NORMAL, HIGH
 }
